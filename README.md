@@ -2,8 +2,8 @@
 ## Overview
 
 This project provides a Python-based framework for analyzing real-world networks using graph-theoretic and spectral methods. It focuses on extracting structural and spectral features from large, noisy datasets, with applications to karst networks and other complex systems.
-
 The workflow includes data cleaning, graph construction, computation of metrics such as effective resistance and Kirchhoff index, and exporting results for further analysis.
+This type of analysis is directly applicable to domains such as financial networks, correlation structures, and data-driven modeling.
 
 ## Features
 - Compute advanced spectral graph metrics (Kirchhoff index, algebraic connectivity, etc.)
