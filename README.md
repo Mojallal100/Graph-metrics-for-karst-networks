@@ -20,6 +20,7 @@ This type of analysis is directly applicable to domains such as financial networ
 - Computed structural and spectral metrics for multiple real-world networks
 - Generated CSV summaries for comparative analysis
 - Enabled quantitative comparison across complex graph structures
+- Example output: summary tables of spectral metrics (e.g., Kirchhoff index, algebraic connectivity) for 70+ networks
 
 ## Example Usage
 1. Load dataset  
