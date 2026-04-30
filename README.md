@@ -12,9 +12,14 @@ This type of analysis is directly applicable to domains such as financial networ
 - Automated pipeline for metric computation and data export
 
 ## Technologies
-- Python
-- NumPy, Pandas, NetworkX
-- Matplotlib
+- Python (NumPy, Pandas, NetworkX)
+- Data processing and analysis pipelines
+- Matplotlib for visualization
+
+  ## Results
+- Computed structural and spectral metrics for multiple real-world networks
+- Generated CSV summaries for comparative analysis
+- Enabled quantitative comparison across complex graph structures
 
 ## Example Usage
 1. Load dataset  
