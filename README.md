@@ -6,10 +6,10 @@ This project provides a Python-based framework for analyzing real-world networks
 The workflow includes data cleaning, graph construction, computation of metrics such as effective resistance and Kirchhoff index, and exporting results for further analysis.
 
 ## Features
-- Compute spectral graph metrics (Kirchhoff index, algebraic connectivity, etc.)
-- Process noisy and disconnected real-world graph data
-- Batch analysis of multiple networks
-- Export results to CSV
+- Compute advanced spectral graph metrics (Kirchhoff index, algebraic connectivity, etc.)
+- Process noisy, large-scale, and disconnected real-world datasets
+- Scalable batch analysis across multiple networks
+- Automated pipeline for metric computation and data export
 
 ## Technologies
 - Python
